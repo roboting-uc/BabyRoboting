@@ -1,4 +1,4 @@
-# Mini RobotING
+# Baby Roboting
 Recreacion de la mascota del capitulo de robotica UC (Roboting) version miniatura. 
 Sirve de mascota de escritorio o de decoracion :D
 
